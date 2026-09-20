@@ -8,9 +8,9 @@ export const siteConfig = {
   },
   contact: {
     address: "Five Greentree Centre STE 104, Marlton, New Jersey 08053 USA",
-    location: "Marlton, NJ 08053",
+    location: "Tampa, FL 33607",
     phone: "+91 98497 46408",
-    email: "info@svritsolutions.com",
+    email: "info@svritsoftwaresolutions.com",
   },
   socials: {
     linkedin: "#",
