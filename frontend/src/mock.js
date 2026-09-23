@@ -7,10 +7,10 @@ export const siteConfig = {
     secondary: "IT Software Solutions",
   },
   contact: {
-    address: "Five Greentree Centre STE 104, Marlton, New Jersey 08053 USA",
-    location: "Tampa, FL 33607",
+    address: "1201 Hays Street, Tallahassee, FL 32301",
+    location: "Tallahassee, FL 32301",
     phone: "+91 98497 46408",
-    email: "info@svritsoftwaresolutions.com",
+    email: "subhan432@svritsolutions.com",
   },
   socials: {
     linkedin: "#",
